@@ -18,7 +18,7 @@
 
 ##
 
-<h1 align="left ">✉️ Contacte-me</h1>
+<h1 align="left ">✉️ Fique á vontade para entrar em contato comigo</h1>
 
 <div>
 <a href="https://www.instagram.com/marcospdrj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
